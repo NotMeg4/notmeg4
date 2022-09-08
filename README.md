@@ -8,8 +8,8 @@
 
 ### Mis redes:
 -----
-<a href="[twitter](https://twitter.com/NotMeg4_)">
-  <img src="https://www.shareicon.net/data/256x256/2017/06/22/887584_logo_64x64.png">
+<a href="https://twitter.com/NotMeg4_">
+  <img src="https://www.shareicon.net/data/64x64/2017/06/22/887584_logo_512x512.png">
 </a>
 
 ### Actualmente estoy:
