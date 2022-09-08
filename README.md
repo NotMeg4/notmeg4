@@ -8,8 +8,10 @@
 
 ### Mis redes:
 -----
-<a href="https://twitter.com/NotMeg4_"><img src="https://www.shareicon.net/data/64x64/2017/06/22/887584_logo_512x512.png"></a> 
-<a href="https://twitter.com/NotMeg4_"><img src="https://www.shareicon.net/data/64x64/2017/06/21/887435_logo_512x512.png"></a>
+<div align="center">
+  <a href="https://twitter.com/NotMeg4_"><img src="https://www.shareicon.net/data/64x64/2015/09/08/98072_twitter_128x128.png"></a> 
+  <a href="https://twitter.com/NotMeg4_"><img src="https://www.shareicon.net/data/64x64/2015/09/08/98072_twitter_128x128.png"></a>
+<div align="center">
 
 ### Actualmente estoy:
 -----
