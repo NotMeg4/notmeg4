@@ -19,7 +19,7 @@
 <div align="center">
   <img align="center" src="https://lanyard.cnrad.dev/api/326865943915397120?animated=true">
 </div>
-• Aprendiendo Java.
+• Aprendiendo Java.\
 • Programando un Bot para Discord.
 
 
