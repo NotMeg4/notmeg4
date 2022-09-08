@@ -9,9 +9,8 @@
 ### Mis redes:
 -----
 <div align="center">
-  <a href="https://twitter.com/NotMeg4_"><img src="https://www.shareicon.net/data/64x64/2015/09/08/98072_twitter_128x128.png"></a> 
-  <a href="https://twitter.com/NotMeg4_"><img src="https://www.shareicon.net/data/64x64/2015/09/08/98072_twitter_128x128.png"></a>
-<div align="center">
+  <a href="https://twitter.com/NotMeg4_"><img src="https://img.shields.io/twitter/follow/NotMeg4_?label=%40NotMeg4_&style=social"></a> 
+</div>
 
 ### Actualmente estoy:
 -----
