@@ -1,10 +1,10 @@
 ### Sobre mí:
 -----
-• Tengo 18 años.
-• A punto de ser Técnico Electromecánico.
-• Gamer.
-• Amante de los dispositivos electrónicos.
-• Configurador de servidores de Minecraft.
+• Tengo 18 años.\
+• A punto de ser Técnico Electromecánico.\
+• Gamer.\
+• Amante de los dispositivos electrónicos.\
+• Configurador de servidores de Minecraft.\
 
 ### Mis redes:
 -----
@@ -17,6 +17,6 @@
 <div align="center">
   <img align="center" src="https://lanyard.cnrad.dev/api/326865943915397120?animated=true">
 </div>
-• Aprendiendo Java.
+• Aprendiendo Java.\
 
 
