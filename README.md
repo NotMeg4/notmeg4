@@ -16,9 +16,10 @@
 
 ### Actualmente estoy:
 -----
-<div align="center">
+<div href="https://discord.com/users/326865943915397120" align="center">
   <img align="center" src="https://lanyard.cnrad.dev/api/326865943915397120?animated=true">
 </div>
+
 
 • Aprendiendo Java.\
 • Programando un Bot para Discord.
