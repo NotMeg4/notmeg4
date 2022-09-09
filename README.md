@@ -22,6 +22,8 @@
   </a>
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/326865943915397120)](https://discord.com/users/326865943915397120)
+
 
 • Aprendiendo Java.\
 • Programando un Bot para Discord.
