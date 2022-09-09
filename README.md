@@ -16,9 +16,9 @@
 
 ### Actualmente estoy:
 -----
-<div href="https://discord.com/users/326865943915397120" align="center">
+<a href="https://discord.com/users/326865943915397120" align="center">
   <img align="center" src="https://lanyard.cnrad.dev/api/326865943915397120?animated=true">
-</div>
+</a>
 
 
 • Aprendiendo Java.\
