@@ -1,7 +1,7 @@
 ### Sobre mí:
 -----
 • Me llamo Andrés, soy Argentino y tengo 18 años.\
-• Estoy a punto de ser Técnico Electromecánico.\
+• Soy técnico electromecánico.\
 • Soy Gamer de PC (Valorant, Minecraft, CS:GO, entre otros).\
 • Soy amante de los dispositivos electrónicos.\
 • Soy configurador de servidores de Minecraft.
