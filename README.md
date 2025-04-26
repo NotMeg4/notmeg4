@@ -1,6 +1,6 @@
 ### Sobre mí:
 -----
-• Me llamo Andrés, soy Argentino y tengo 20 años.\
+• Me llamo Andrés, soy Argentino y tengo 21 años.\
 • Soy técnico electromecánico.\
 • Soy Gamer de PC (Valorant, Minecraft, CS:GO, entre otros).\
 • Soy amante de los dispositivos electrónicos.\
